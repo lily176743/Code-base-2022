@@ -1,0 +1,24 @@
+.body{
+    padding: 10px;
+    font-size: 1rem;
+    border-radius: 10px;
+    background-color:  #f7e5e5;
+    padding-right: 25px;
+
+    font-weight: 500;
+    color: #333;
+
+    margin-bottom: 5px;
+}
+
+.done{
+    border:none;
+    background:none;
+    color:green;
+}
+
+.notdone{
+    border:none;
+    background:none;
+    color:grey;
+}
